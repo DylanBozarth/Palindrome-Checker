@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+body {
+    background-color: black;
+    color: white;
+    max-width: 100%;
+    font-size: 25px;
+}
+span {
+    color: white;
+}
+.success {
+    color: lightgreen;
+}
+.fail {
+    color: red;
+}
